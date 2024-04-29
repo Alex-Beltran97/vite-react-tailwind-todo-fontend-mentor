@@ -21,7 +21,7 @@ const Header = () => {
 
   return (
     <>
-      <header className="container mx-auto px-4 pt-8">
+      <header className="container mx-auto px-4 pt-8 md:max-w-md">
         <div className="flex justify-between">
           <h1 className="text-2xl font-semibold uppercase tracking-[.51em] text-white">
             Todo
